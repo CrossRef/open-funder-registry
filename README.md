@@ -7,6 +7,9 @@ The list should be used to present authors with a pre-populated "Funder Name" op
 The list is available to download as an RDF file, and is freely available under a CC0 license waiver.
 
 ## Latest Version
+PLEASE NOTE THAT THIS REPOSITORY IS NOW ARCHIVED> PAST AND FUTURE RELEASES CAN BE FOUND HERE:
+https://gitlab.com/crossref/open_funder_registry
+
 
 The latest version of the registry is `v1.28`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
 
